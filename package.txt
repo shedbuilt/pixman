@@ -1,0 +1,6 @@
+NAME=pixman
+VERSION=0.36.0
+REVISION=1
+LICENSE=MIT
+SRC=https://www.cairographics.org/releases/pixman-0.36.0.tar.gz
+SRCMD5=552df0d7ccccfadd07ae3758cc9a057f
